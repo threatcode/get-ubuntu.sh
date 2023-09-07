@@ -1,4 +1,4 @@
-# Get-Ubuntu.sh
+# get-ubuntu.sh
 A Shell Script To Take Care Of Ubuntu Basic VPC Setup For Ubuntu 20.04
 
 - Update OS
